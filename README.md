@@ -1,4 +1,5 @@
 [![github](https://img.shields.io/badge/Version%3A-0.1.0-brightgreen.svg)](https://github.com/arifulprotik/GoBoilerPlate/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ArifulProtik/GoBoilerplate)](https://goreportcard.com/report/github.com/ArifulProtik/GoBoilerplate)
 # GoBoilerplate - Go Boiler Plate For Start A Qucik Web Dev Project With Gopherjs
 File Tree look Like This. 
 Just Clone and copy to your repo , you Ready to role. 
