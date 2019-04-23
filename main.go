@@ -6,8 +6,8 @@ import (
 	"os"
 
 	logger "github.com/anikhasibul/log"
+	"github.com/go-humble/router"
 	"github.com/gorilla/handlers"
-	"github.com/ArifulProtik/GoBoilerplate/api/handler"
 )
 
 var log = logger.New(os.Stdout)
